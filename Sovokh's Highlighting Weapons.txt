@@ -1,0 +1,1192 @@
+title:Sovokh's Highlighting Weapons
+description:Current list of weapons that all have the ability to highlight in some way or another
+
+In the search bar, input "wishlistnotes:highlight" to search for all the weapons in your vault that can highlight targets
+
+// Tango-45 XK5094 ()
+//notes: Highlight
+dimwishlist:item=20025671&perks=360593482
+dimwishlist:item=20025671&perks=3151536501
+
+
+// Arctic Haze ()
+//notes: Highlight
+dimwishlist:item=20935540&perks=
+
+
+// Avalanche ()
+//notes: Highlight
+dimwishlist:item=66875353&perks=3151536501
+dimwishlist:item=66875353&perks=360593482
+
+
+// The Ringing Nail ()
+//notes: Highlight
+dimwishlist:item=93253474&perks=3433396027
+dimwishlist:item=93253474&perks=2414725840
+
+
+// Requiem-45 ()
+//notes: Highlight
+dimwishlist:item=159056377&perks=3151536501
+
+
+// CALUS Mini-Tool ()
+//notes: Highlight
+dimwishlist:item=174192097&perks=
+
+
+// The Long Walk ()
+//notes: Highlight
+dimwishlist:item=174804902&perks=
+
+
+// Last Perdition ()
+//notes: Highlight
+dimwishlist:item=188882152&perks=3151536501
+dimwishlist:item=188882152&perks=360593482
+
+
+// Glissando-47 ()
+//notes: Highlight
+dimwishlist:item=222606050&perks=
+
+
+// Exile's Curse (Adept) ()
+//notes: Highlight
+dimwishlist:item=276080079&perks=
+
+
+// Exile's Curse (Adept) ()
+//notes: Highlight
+dimwishlist:item=276080079&perks=1264398905
+
+
+// Pointed Inquiry ()
+//notes: Highlight
+dimwishlist:item=297296830&perks=
+
+
+// Breakneck ()
+//notes: Highlight
+dimwishlist:item=324382200&perks=
+
+
+// Darkest Before ()
+//notes: Highlight
+dimwishlist:item=325519402&perks=
+
+
+// Nergal PR4 ()
+//notes: Highlight
+dimwishlist:item=339343290&perks=1628165637
+
+
+// Cadenza-43 ()
+//notes: Highlight
+dimwishlist:item=339343291&perks=3151536501
+
+
+// Coronach-22 ()
+//notes: Highlight
+dimwishlist:item=355382946&perks=
+
+
+// Darkest Before ()
+//notes: Highlight
+dimwishlist:item=435821040&perks=
+
+
+// Relentless ()
+//notes: Highlight
+dimwishlist:item=435821041&perks=
+
+
+// The Last Breath ()
+//notes: Highlight
+dimwishlist:item=507038823&perks=
+
+
+// Beidenhander ()
+//notes: Highlight
+dimwishlist:item=516243773&perks=2054312701
+
+
+// BrayTech Werewolf ()
+//notes: Highlight
+dimwishlist:item=528834068&perks=
+
+
+// Astral Horizon (Adept) ()
+//notes: Highlight
+dimwishlist:item=532746994&perks=
+
+
+// Astral Horizon (Adept) ()
+//notes: Highlight
+dimwishlist:item=532746994&perks=1264398905
+
+
+// Dark Decider ()
+//notes: Highlight
+dimwishlist:item=540880995&perks=
+
+
+// Telemachus-C ()
+//notes: Highlight
+dimwishlist:item=541053086&perks=2054312701
+dimwishlist:item=541053086&perks=1313805251
+
+
+// Resonance-42 ()
+//notes: Highlight
+dimwishlist:item=566976652&perks=3151536501
+
+
+// Phosphorus MG4 ()
+//notes: Highlight
+dimwishlist:item=566976654&perks=1628165637
+
+
+// Contingency Plan ()
+//notes: Highlight
+dimwishlist:item=577528837&perks=
+
+
+// Hammerhead ()
+//notes: Highlight
+dimwishlist:item=603242241&perks=
+
+
+// Proelium FR3 ()
+//notes: Highlight
+dimwishlist:item=618554398&perks=1628165637
+
+
+// Jorum's Claw ()
+//notes: Highlight
+dimwishlist:item=622058944&perks=360593482
+
+
+// Jian 7 Rifle ()
+//notes: Highlight
+dimwishlist:item=625672050&perks=360593482
+
+
+// Exile's Curse ()
+//notes: Highlight
+dimwishlist:item=679281855&perks=
+
+
+// Exile's Curse ()
+//notes: Highlight
+dimwishlist:item=679281855&perks=1264398905
+
+
+// Restoration VIII ()
+//notes: Highlight
+dimwishlist:item=705774642&perks=3151536501
+
+
+// Arsenic Bite-4b ()
+//notes: Highlight
+dimwishlist:item=720351795&perks=
+
+
+// Seventh Seraph VY-7 ()
+//notes: Highlight
+dimwishlist:item=766323545&perks=
+
+
+// Misfit ()
+//notes: Highlight
+dimwishlist:item=819441402&perks=809345546
+dimwishlist:item=819441402&perks=809345547
+dimwishlist:item=819441402&perks=1288081796
+dimwishlist:item=819441402&perks=1288081797
+dimwishlist:item=819441402&perks=1288081798
+dimwishlist:item=819441402&perks=1452368632
+dimwishlist:item=819441402&perks=1452368633
+dimwishlist:item=819441402&perks=1452368634
+
+
+// Uzume RR4 (Adept) ()
+//notes: Highlight
+dimwishlist:item=852228780&perks=
+
+
+// Occluded Finality ()
+//notes: Highlight
+dimwishlist:item=852551895&perks=
+
+
+// Astral Horizon (Adept) ()
+//notes: Highlight
+dimwishlist:item=854379020&perks=
+
+
+// Tomorrow's Answer ()
+//notes: Highlight
+dimwishlist:item=958384347&perks=
+
+
+// Last Perdition ()
+//notes: Highlight
+dimwishlist:item=962412079&perks=3151536501
+dimwishlist:item=962412079&perks=360593482
+
+
+// Deafening Whisper ()
+//notes: Highlight
+dimwishlist:item=981718087&perks=
+
+
+// Adjudicator ()
+//notes: Highlight
+dimwishlist:item=1013434963&perks=
+
+
+// Perses-D ()
+//notes: Highlight
+dimwishlist:item=1019000888&perks=
+
+
+// The Hero's Burden ()
+//notes: Highlight
+dimwishlist:item=1028124540&perks=
+
+
+// BrayTech Osprey (Adept) ()
+//notes: Highlight
+dimwishlist:item=1064132738&perks=
+
+
+// Rapacious Appetite ()
+//notes: Highlight
+dimwishlist:item=1081724548&perks=
+
+
+// IKELOS_SG_v1.0.2 ()
+//notes: Highlight
+dimwishlist:item=1096206669&perks=
+
+
+// Dark Decider ()
+//notes: Highlight
+dimwishlist:item=1144014195&perks=
+
+
+// Vacuna SR4 ()
+//notes: Highlight
+dimwishlist:item=1159252500&perks=1628165637
+
+
+// Jian 7 Rifle ()
+//notes: Highlight
+dimwishlist:item=1162247618&perks=360593482
+dimwishlist:item=1162247618&perks=3151536501
+
+
+// IKELOS_SG_v1.0.3 ()
+//notes: Highlight
+dimwishlist:item=1168625549&perks=
+
+
+// Agrona PR4 ()
+//notes: Highlight
+dimwishlist:item=1178397318&perks=1628165637
+
+
+// Relentless ()
+//notes: Highlight
+dimwishlist:item=1187594590&perks=
+
+
+// Widow's Bite ()
+//notes: Highlight
+dimwishlist:item=1271343896&perks=
+
+
+// Eystein-D ()
+//notes: Highlight
+dimwishlist:item=1291586825&perks=2054312701
+
+
+// The Summoner (Adept) ()
+//notes: Highlight
+dimwishlist:item=1292594730&perks=
+
+
+// Perseverance ()
+//notes: Highlight
+dimwishlist:item=1327432221&perks=
+
+
+// MIDA Multi-Tool ()
+//notes: Highlight
+dimwishlist:item=1331482397&perks=
+
+
+// Tomorrow's Answer (Adept) ()
+//notes: Highlight
+dimwishlist:item=1366917989&perks=
+
+
+// Swift Ride XE8375 ()
+//notes: Highlight
+dimwishlist:item=1386601612&perks=360593482
+dimwishlist:item=1386601612&perks=3151536501
+
+
+// Reed's Regret ()
+//notes: Highlight
+dimwishlist:item=1399243961&perks=
+
+
+// Reed's Regret ()
+//notes: Highlight
+dimwishlist:item=1399243961&perks=1264398905
+
+
+// Eye of Sol ()
+//notes: Highlight
+dimwishlist:item=1401300690&perks=
+
+
+// Revision Zero ()
+//notes: Highlight
+dimwishlist:item=1473821207&perks=
+
+
+// The Last Breath ()
+//notes: Highlight
+dimwishlist:item=1503609584&perks=
+
+
+// Swift Ride ()
+//notes: Highlight
+dimwishlist:item=1513927136&perks=360593482
+
+
+// Halfdan-D ()
+//notes: Highlight
+dimwishlist:item=1518042134&perks=2054312701
+dimwishlist:item=1518042134&perks=1313805251
+
+
+// Valakadyn ()
+//notes: Highlight
+dimwishlist:item=1518042135&perks=
+
+
+// Seventh Seraph Carbine ()
+//notes: Highlight
+dimwishlist:item=1561006927&perks=
+
+
+// 21% Delirium ()
+//notes: Highlight
+dimwishlist:item=1600633250&perks=
+
+
+// Enyo-D ()
+//notes: Highlight
+dimwishlist:item=1601177201&perks=
+
+
+// Biting Winds ()
+//notes: Highlight
+dimwishlist:item=1621657423&perks=
+
+
+// Loquitor IV ()
+//notes: Highlight
+dimwishlist:item=1650442173&perks=2054312701
+
+
+// Astral Horizon ()
+//notes: Highlight
+dimwishlist:item=1697682876&perks=
+
+
+// Astral Horizon ()
+//notes: Highlight
+dimwishlist:item=1697682876&perks=1264398905
+
+
+// Disparity ()
+//notes: Highlight
+dimwishlist:item=1751893422&perks=
+
+
+// BrayTech Winter Wolf ()
+//notes: Highlight
+dimwishlist:item=1752585070&perks=
+
+
+// Legal Action II ()
+//notes: Highlight
+dimwishlist:item=1760543913&perks=1313805251
+
+
+// Thermal Erosion ()
+//notes: Highlight
+dimwishlist:item=1766088024&perks=
+
+
+// A Distant Pull ()
+//notes: Highlight
+dimwishlist:item=1769847435&perks=
+
+
+// Galliard-42 XN7568 ()
+//notes: Highlight
+dimwishlist:item=1775804198&perks=3151536501
+dimwishlist:item=1775804198&perks=360593482
+
+
+// Herod-C ()
+//notes: Highlight
+dimwishlist:item=1788603939&perks=
+
+
+// The Summoner ()
+//notes: Highlight
+dimwishlist:item=1820994983&perks=
+
+
+// The End ()
+//notes: Highlight
+dimwishlist:item=1825472717&perks=
+
+
+// Ether Doctor ()
+//notes: Highlight
+dimwishlist:item=1839565992&perks=809345546
+dimwishlist:item=1839565992&perks=809345547
+dimwishlist:item=1839565992&perks=1288081796
+dimwishlist:item=1839565992&perks=1288081797
+dimwishlist:item=1839565992&perks=1288081798
+dimwishlist:item=1839565992&perks=1452368632
+dimwishlist:item=1839565992&perks=1452368633
+dimwishlist:item=1839565992&perks=1452368634
+
+
+// Jararaca-3sr ()
+//notes: Highlight
+dimwishlist:item=1851521408&perks=
+
+
+// The Hero's Burden ()
+//notes: Highlight
+dimwishlist:item=1865351684&perks=3151536501
+
+
+// Elegy-49 ()
+//notes: Highlight
+dimwishlist:item=1873270090&perks=1617987574
+
+
+// Tone Patrol ()
+//notes: Highlight
+dimwishlist:item=1885753223&perks=3151536501
+
+
+// IKELOS_SG_v1.0.1 ()
+//notes: Highlight
+dimwishlist:item=1887808042&perks=
+
+
+// Uzume RR4 (Adept) ()
+//notes: Highlight
+dimwishlist:item=1891996599&perks=
+
+
+// The Summoner ()
+//notes: Highlight
+dimwishlist:item=1907698332&perks=
+
+
+// The Summoner ()
+//notes: Highlight
+dimwishlist:item=1907698332&perks=1264398905
+
+
+// Prosecutor ()
+//notes: Highlight
+dimwishlist:item=1909527966&perks=
+
+
+// Taipan-4fr ()
+//notes: Highlight
+dimwishlist:item=1911060537&perks=
+
+
+// Eternal Blazon ()
+//notes: Highlight
+dimwishlist:item=1927800278&perks=1628165637
+dimwishlist:item=1927800278&perks=194952923
+
+
+// BrayTech Osprey ()
+//notes: Highlight
+dimwishlist:item=1929278169&perks=
+
+
+// No Feelings ()
+//notes: Highlight
+dimwishlist:item=1931556011&perks=3433396027
+dimwishlist:item=1931556011&perks=2414725840
+
+
+// Archimedes Truth ()
+//notes: Highlight
+dimwishlist:item=1940885628&perks=911046886
+
+
+// Dark Decider ()
+//notes: Highlight
+dimwishlist:item=1942069133&perks=
+
+
+// Likely Suspect ()
+//notes: Highlight
+dimwishlist:item=1994645182&perks=
+
+
+// Breakneck ()
+//notes: Highlight
+dimwishlist:item=2026755633&perks=
+
+
+// Eye of Sol (Adept) ()
+//notes: Highlight
+dimwishlist:item=2059255495&perks=
+
+
+// Uzume RR4 ()
+//notes: Highlight
+dimwishlist:item=2065081837&perks=
+
+
+// Adjudicator ()
+//notes: Highlight
+dimwishlist:item=2094938673&perks=
+
+
+// Bad Reputation ()
+//notes: Highlight
+dimwishlist:item=2105827099&perks=1288081796
+dimwishlist:item=2105827099&perks=1288081797
+dimwishlist:item=2105827099&perks=1288081798
+dimwishlist:item=2105827099&perks=1452368632
+dimwishlist:item=2105827099&perks=1452368633
+dimwishlist:item=2105827099&perks=1452368634
+
+
+// Zealot's Reward ()
+//notes: Highlight
+dimwishlist:item=2209003210&perks=
+
+
+// Fire and Forget ()
+//notes: Highlight
+dimwishlist:item=2272041093&perks=
+
+
+// Maestro-46 ()
+//notes: Highlight
+dimwishlist:item=2295941921&perks=1617987574
+
+
+// Belisarius-D ()
+//notes: Highlight
+dimwishlist:item=2313726158&perks=
+
+
+// Ogma PR6 ()
+//notes: Highlight
+dimwishlist:item=2342054803&perks=
+
+
+// Prolonged Engagement ()
+//notes: Highlight
+dimwishlist:item=2349907931&perks=
+
+
+// The Scholar (Adept) ()
+//notes: Highlight
+dimwishlist:item=2386979999&perks=
+
+
+// The Scholar (Adept) ()
+//notes: Highlight
+dimwishlist:item=2386979999&perks=1264398905
+
+
+// Erentil FR4 ()
+//notes: Highlight
+dimwishlist:item=2398848320&perks=1628165637
+
+
+// Eyes of Tomorrow ()
+//notes: Highlight
+dimwishlist:item=2399110176&perks=
+
+
+// Sacred Provenance ()
+//notes: Highlight
+dimwishlist:item=2408405461&perks=
+
+
+// Atalanta-D ()
+//notes: Highlight
+dimwishlist:item=2414612777&perks=2054312701
+
+
+// Atalanta-D XG1992 ()
+//notes: Highlight
+dimwishlist:item=2422664927&perks=2054312701
+
+
+// Uzume RR4 ()
+//notes: Highlight
+dimwishlist:item=2450917538&perks=
+
+
+// Blast Battue ()
+//notes: Highlight
+dimwishlist:item=2453357042&perks=
+
+
+// Reed's Regret (Adept) ()
+//notes: Highlight
+dimwishlist:item=2475355656&perks=
+
+
+// Reed's Regret (Adept) ()
+//notes: Highlight
+dimwishlist:item=2475355656&perks=1264398905
+
+
+// The Scholar ()
+//notes: Highlight
+dimwishlist:item=2478792241&perks=
+
+
+// The Scholar ()
+//notes: Highlight
+dimwishlist:item=2478792241&perks=1264398905
+
+
+// Darkest Before ()
+//notes: Highlight
+dimwishlist:item=2481758391&perks=
+
+
+// The Hero's Burden ()
+//notes: Highlight
+dimwishlist:item=2488587246&perks=
+
+
+// CALUS Mini-Tool ()
+//notes: Highlight
+dimwishlist:item=2490988246&perks=
+
+
+// The Number ()
+//notes: Highlight
+dimwishlist:item=2492081469&perks=
+
+
+// Tarantula ()
+//notes: Highlight
+dimwishlist:item=2502422775&perks=
+
+
+// Lunulata-4b ()
+//notes: Highlight
+dimwishlist:item=2513965917&perks=
+
+
+// Purpose ()
+//notes: Highlight
+dimwishlist:item=2516360525&perks=
+
+
+// Death Adder ()
+//notes: Highlight
+dimwishlist:item=2517599010&perks=
+
+
+// Antiope-D ()
+//notes: Highlight
+dimwishlist:item=2561659919&perks=2054312701
+
+
+// Seventh Seraph SAW ()
+//notes: Highlight
+dimwishlist:item=2582755344&perks=
+
+
+// Contingency Plan ()
+//notes: Highlight
+dimwishlist:item=2625782213&perks=
+
+
+// Aisha's Embrace ()
+//notes: Highlight
+dimwishlist:item=2638190703&perks=
+
+
+// Astral Horizon ()
+//notes: Highlight
+dimwishlist:item=2653171213&perks=
+
+
+// Irukandji ()
+//notes: Highlight
+dimwishlist:item=2673925403&perks=
+
+
+// Trackless Waste ()
+//notes: Highlight
+dimwishlist:item=2681395357&perks=1288081797
+dimwishlist:item=2681395357&perks=1288081796
+dimwishlist:item=2681395357&perks=1452368632
+dimwishlist:item=2681395357&perks=1288081798
+dimwishlist:item=2681395357&perks=1452368633
+dimwishlist:item=2681395357&perks=1452368634
+
+
+// Two-Tailed Fox ()
+//notes: Highlight
+dimwishlist:item=2694576561&perks=
+
+
+// Komodo-4FR ()
+//notes: Highlight
+dimwishlist:item=2697058914&perks=
+
+
+// Red Mamba ()
+//notes: Highlight
+dimwishlist:item=2700862859&perks=
+
+
+// Distant Tumulus ()
+//notes: Highlight
+dimwishlist:item=2738174948&perks=
+
+
+// Death Adder ()
+//notes: Highlight
+dimwishlist:item=2742490609&perks=
+
+
+// Tempered Dynamo ()
+//notes: Highlight
+dimwishlist:item=2753269585&perks=3433396027
+
+
+// Distant Tumulus ()
+//notes: Highlight
+dimwishlist:item=2807687156&perks=
+
+
+// Path of Least Resistance ()
+//notes: Highlight
+dimwishlist:item=2827764482&perks=
+
+
+// Krait ()
+//notes: Highlight
+dimwishlist:item=2852052802&perks=
+
+
+// BrayTech Werewolf ()
+//notes: Highlight
+dimwishlist:item=2869466318&perks=
+
+
+// Hailing Confusion ()
+//notes: Highlight
+dimwishlist:item=2870169846&perks=
+
+
+// Crooked Fang-4fr ()
+//notes: Highlight
+dimwishlist:item=3005879473&perks=
+
+
+// Different Times ()
+//notes: Highlight
+dimwishlist:item=3016891299&perks=
+
+
+// Proelium FR3 ()
+//notes: Highlight
+dimwishlist:item=3027844940&perks=1628165637
+dimwishlist:item=3027844940&perks=194952923
+
+
+// Erentil FR4 ()
+//notes: Highlight
+dimwishlist:item=3027844941&perks=1628165637
+dimwishlist:item=3027844941&perks=194952923
+
+
+// Timelines' Vertex ()
+//notes: Highlight
+dimwishlist:item=3055192515&perks=194952923
+dimwishlist:item=3055192515&perks=1628165637
+
+
+// MIDA Mini-Tool ()
+//notes: Highlight
+dimwishlist:item=3089417788&perks=
+
+
+// Retrofit Escapade ()
+//notes: Highlight
+dimwishlist:item=3103325054&perks=
+
+
+// D.A.R.C.I. ()
+//notes: Highlight
+dimwishlist:item=3141979346&perks=
+
+
+// Eye of Sol ()
+//notes: Highlight
+dimwishlist:item=3164743584&perks=
+
+
+// Eye of Sol ()
+//notes: Highlight
+dimwishlist:item=3164743584&perks=1264398905
+
+
+// Red Herring ()
+//notes: Highlight
+dimwishlist:item=3175851496&perks=
+
+
+// Eystein-D ()
+//notes: Highlight
+dimwishlist:item=3199662972&perks=2054312701
+dimwishlist:item=3199662972&perks=1313805251
+
+
+// Laser Painter ()
+//notes: Highlight
+dimwishlist:item=3221722018&perks=
+
+
+// Maxim XI ()
+//notes: Highlight
+dimwishlist:item=3239754990&perks=1617987574
+
+
+// Aisha's Embrace (Adept) ()
+//notes: Highlight
+dimwishlist:item=3245493570&perks=
+
+
+// Eye of Foresight ()
+//notes: Highlight
+dimwishlist:item=3272713429&perks=911046886
+
+
+// A Single Clap ()
+//notes: Highlight
+dimwishlist:item=3312073052&perks=1617987574
+
+
+// Widow's Bite ()
+//notes: Highlight
+dimwishlist:item=3312073055&perks=
+
+
+// The Long Walk ()
+//notes: Highlight
+dimwishlist:item=3326850591&perks=
+
+
+// Tarantula ()
+//notes: Highlight
+dimwishlist:item=3335343363&perks=
+
+
+// Funnelweb ()
+//notes: Highlight
+dimwishlist:item=3341893443&perks=
+
+
+// The Recluse ()
+//notes: Highlight
+dimwishlist:item=3354242550&perks=
+
+
+// Right Side of Wrong ()
+//notes: Highlight
+dimwishlist:item=3376406418&perks=809345546
+dimwishlist:item=3376406418&perks=809345547
+dimwishlist:item=3376406418&perks=1288081796
+dimwishlist:item=3376406418&perks=1288081797
+dimwishlist:item=3376406418&perks=1288081798
+dimwishlist:item=3376406418&perks=1452368632
+dimwishlist:item=3376406418&perks=1452368633
+dimwishlist:item=3376406418&perks=1452368634
+
+
+// Reckless Oracle ()
+//notes: Highlight
+dimwishlist:item=3385326721&perks=
+
+
+// Positive Outlook ()
+//notes: Highlight
+dimwishlist:item=3393130645&perks=1628165637
+
+
+// Crooked Fang-4fr ()
+//notes: Highlight
+dimwishlist:item=3419149443&perks=
+
+
+// Motion to Compel ()
+//notes: Highlight
+dimwishlist:item=3425561386&perks=
+
+
+// Song of Justice VI ()
+//notes: Highlight
+dimwishlist:item=3435238842&perks=1313805251
+
+
+// Good Counsel IX ()
+//notes: Highlight
+dimwishlist:item=3435238843&perks=2054312701
+
+
+// Omniscient Eye ()
+//notes: Highlight
+dimwishlist:item=3454326177&perks=
+
+
+// Prosecutor ()
+//notes: Highlight
+dimwishlist:item=3483591058&perks=
+
+
+// The Cut and Run ()
+//notes: Highlight
+dimwishlist:item=3501969491&perks=809345546
+dimwishlist:item=3501969491&perks=809345547
+dimwishlist:item=3501969491&perks=1288081796
+dimwishlist:item=3501969491&perks=1288081797
+dimwishlist:item=3501969491&perks=1288081798
+dimwishlist:item=3501969491&perks=1452368632
+dimwishlist:item=3501969491&perks=1452368633
+dimwishlist:item=3501969491&perks=1452368634
+
+
+// Coriolis Force ()
+//notes: Highlight
+dimwishlist:item=3512349612&perks=
+
+
+// Eternal Blazon ()
+//notes: Highlight
+dimwishlist:item=3514096004&perks=194952923
+dimwishlist:item=3514096004&perks=1628165637
+
+
+// The Summoner (Adept) ()
+//notes: Highlight
+dimwishlist:item=3514144928&perks=
+
+
+// The Summoner (Adept) ()
+//notes: Highlight
+dimwishlist:item=3514144928&perks=1264398905
+
+
+// Eriana's Vow ()
+//notes: Highlight
+dimwishlist:item=3524313097&perks=
+
+
+// Graviton Lance ()
+//notes: Highlight
+dimwishlist:item=3628991658&perks=
+
+
+// Eye of Sol (Adept) ()
+//notes: Highlight
+dimwishlist:item=3637570176&perks=
+
+
+// Eye of Sol (Adept) ()
+//notes: Highlight
+dimwishlist:item=3637570176&perks=1264398905
+
+
+// Copperhead-4sn ()
+//notes: Highlight
+dimwishlist:item=3666954561&perks=
+
+
+// Veleda-D ()
+//notes: Highlight
+dimwishlist:item=3666954562&perks=893526895
+
+
+// Elegy-49 ()
+//notes: Highlight
+dimwishlist:item=3666954563&perks=1617987574
+
+
+// BrayTech Osprey ()
+//notes: Highlight
+dimwishlist:item=3667553455&perks=
+
+
+// Long Shadow ()
+//notes: Highlight
+dimwishlist:item=3745990145&perks=893526895
+
+
+// Uriel's Gift ()
+//notes: Highlight
+dimwishlist:item=3762467076&perks=1628165637
+
+
+// Solemn Hymn ()
+//notes: Highlight
+dimwishlist:item=3762467077&perks=3151536501
+
+
+// Valakadyn ()
+//notes: Highlight
+dimwishlist:item=3762467079&perks=
+
+
+// Halfdan-D ()
+//notes: Highlight
+dimwishlist:item=3778520450&perks=2054312701
+
+
+// Galliard-42 ()
+//notes: Highlight
+dimwishlist:item=3778520451&perks=3151536501
+
+
+// Blast Furnace ()
+//notes: Highlight
+dimwishlist:item=3843477312&perks=3433396027
+dimwishlist:item=3843477312&perks=2414725840
+
+
+// The Jade Rabbit ()
+//notes: Highlight
+dimwishlist:item=3844694310&perks=
+
+
+// Tripwire Canary ()
+//notes: Highlight
+dimwishlist:item=3849444474&perks=
+
+
+// The Number ()
+//notes: Highlight
+dimwishlist:item=3854359821&perks=1628165637
+
+
+// Uriel's Gift ()
+//notes: Highlight
+dimwishlist:item=3863882743&perks=194952923
+dimwishlist:item=3863882743&perks=1628165637
+
+
+// Man o' War ()
+//notes: Highlight
+dimwishlist:item=3909683950&perks=
+
+
+// Motion to Suppress ()
+//notes: Highlight
+dimwishlist:item=3950088638&perks=
+
+
+// Wrong Side of Right ()
+//notes: Highlight
+dimwishlist:item=3957603605&perks=809345546
+dimwishlist:item=3957603605&perks=809345547
+dimwishlist:item=3957603605&perks=1288081796
+dimwishlist:item=3957603605&perks=1288081797
+dimwishlist:item=3957603605&perks=1288081798
+dimwishlist:item=3957603605&perks=1452368632
+dimwishlist:item=3957603605&perks=1452368633
+dimwishlist:item=3957603605&perks=1452368634
+
+
+// Kibou AR3 ()
+//notes: Highlight
+dimwishlist:item=4014434381&perks=1628165637
+
+
+// Staccato-46 ()
+//notes: Highlight
+dimwishlist:item=4019668921&perks=
+
+
+// Seventh Seraph Carbine ()
+//notes: Highlight
+dimwishlist:item=4070357005&perks=
+
+
+// Accrued Redemption ()
+//notes: Highlight
+dimwishlist:item=4095896073&perks=
+
+
+// Elatha FR4 ()
+//notes: Highlight
+dimwishlist:item=4105447487&perks=1628165637
+
+
+// Elatha FR4 ()
+//notes: Highlight
+dimwishlist:item=4106983932&perks=1628165637
+dimwishlist:item=4106983932&perks=194952923
+
+
+// Go Figure ()
+//notes: Highlight
+dimwishlist:item=4138174248&perks=809345546
+dimwishlist:item=4138174248&perks=809345547
+dimwishlist:item=4138174248&perks=1288081796
+dimwishlist:item=4138174248&perks=1288081797
+dimwishlist:item=4138174248&perks=1288081798
+dimwishlist:item=4138174248&perks=1452368632
+dimwishlist:item=4138174248&perks=1452368633
+dimwishlist:item=4138174248&perks=1452368634
+
+
+// Show of Force XF4865 ()
+//notes: Highlight
+dimwishlist:item=4148143418&perks=893526895
+
+
+// Commemoration ()
+//notes: Highlight
+dimwishlist:item=4230965989&perks=
+
+
+// Quicksilver Storm ()
+//notes: Highlight
+dimwishlist:item=4293613902&perks=
+
+
