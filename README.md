@@ -1,5 +1,9 @@
 Current list of weapons that all have the ability to highlight in some way or another
 
-Obtain the raw.github URL, then add it to DIM
+How to add the list to your existing Wishlist: 
+Copy the Raw version of the txt.file (https://raw.githubusercontent.com/Sovokh/Highlight-Weapons/main/Sovokh's%20Highlighting%20Weapons.txt)
 
-In the search bar, input "wishlistnotes:highlight" to search for all the weapons in your vault that can highlight targets
+Paste it in under the "Add another Wishlist" tab under settings in DIM 
+  (Refer to https://github.com/DestinyItemManager/DIM/blob/master/docs/COMMUNITY_CURATIONS.md) for additional information about wishlists.
+
+In the search bar, input "wishlistnotes:highlight" to select all the weapons in your vault that have the ability to highlight targets.
