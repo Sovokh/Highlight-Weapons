@@ -29,11 +29,6 @@ dimwishlist:item=93253474&perks=2414725840
 dimwishlist:item=159056377&perks=3151536501
 
 
-// CALUS Mini-Tool ()
-//notes: Highlight
-dimwishlist:item=174192097&perks=
-
-
 // The Long Walk ()
 //notes: Highlight
 dimwishlist:item=174804902&perks=
