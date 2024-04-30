@@ -254,6 +254,11 @@ dimwishlist:item=1019000888&perks=
 dimwishlist:item=1028124540&perks=
 
 
+// The Recluse ()
+//notes: Highlight
+dimwishlist:item=1050806815&perks=
+
+
 // BrayTech Osprey (Adept) ()
 //notes: Highlight
 dimwishlist:item=1064132738&perks=
@@ -513,6 +518,11 @@ dimwishlist:item=1887808042&perks=
 // Uzume RR4 (Adept) ()
 //notes: Highlight
 dimwishlist:item=1891996599&perks=
+
+
+// Hammerhead ()
+//notes: Highlight
+dimwishlist:item=1896309757&perks=
 
 
 // The Summoner ()
