@@ -45,6 +45,11 @@ dimwishlist:item=188882152&perks=3151536501
 dimwishlist:item=188882152&perks=360593482
 
 
+// Hammerhead ()
+//notes: Highlight
+dimwishlist:item=211732170&perks=
+
+
 // Glissando-47 ()
 //notes: Highlight
 dimwishlist:item=222606050&perks=
@@ -868,6 +873,11 @@ dimwishlist:item=3055192515&perks=1628165637
 // MIDA Mini-Tool ()
 //notes: Highlight
 dimwishlist:item=3089417788&perks=
+
+
+// The Recluse ()
+//notes: Highlight
+dimwishlist:item=3098328572&perks=
 
 
 // Retrofit Escapade ()
