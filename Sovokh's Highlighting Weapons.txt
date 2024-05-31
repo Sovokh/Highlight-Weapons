@@ -151,6 +151,11 @@ dimwishlist:item=566976652&perks=3151536501
 dimwishlist:item=566976654&perks=1628165637
 
 
+// The Mountaintop ()
+//notes: Highlight
+dimwishlist:item=568611922&perks=
+
+
 // Contingency Plan ()
 //notes: Highlight
 dimwishlist:item=577528837&perks=
@@ -1173,6 +1178,11 @@ dimwishlist:item=4014434381&perks=1628165637
 // Staccato-46 ()
 //notes: Highlight
 dimwishlist:item=4019668921&perks=
+
+
+// The Mountaintop ()
+//notes: Highlight
+dimwishlist:item=4043921923&perks=
 
 
 // Seventh Seraph Carbine ()
